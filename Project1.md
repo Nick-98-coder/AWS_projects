@@ -1,4 +1,4 @@
-### AWS project1
+### AWS project1 - WIP
 # Hosting static website.
 ***
 The below plan is my architechture.
