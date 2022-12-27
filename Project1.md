@@ -46,7 +46,7 @@ This is for second bucket permission to static host website.
 
 &nbsp; &nbsp; &nbsp; &nbsp; <img width="635" alt="image" src="https://user-images.githubusercontent.com/74515760/209603369-f07a3c11-b7ed-4f48-9c88-32ffdf54ee27.png">
 
-Now, all set from S3 side. Using the link by S3 the output is below.
+Now, all set from S3 side. PFB output from the Static website link was genarated using S3 bucket.
 
 &nbsp; &nbsp; &nbsp; &nbsp; <img width="1248" alt="image" src="https://user-images.githubusercontent.com/74515760/209604293-f5977251-1bae-4c2d-b5aa-9c6b7dbb6977.png">
 
