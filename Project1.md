@@ -32,7 +32,7 @@ The bucket without public access `**myelearning.nk**`
 
 &nbsp; &nbsp; &nbsp; &nbsp; <img width="386" alt="image" src="https://user-images.githubusercontent.com/74515760/209601182-e146456e-a5c4-421f-af38-3ca08dc69941.png">
 
-* Step-5: Set a permission to static host website for accessing single link for all content inside a bucket.
+* Step-5: Set a permission to static host website for accessing single links for all content inside buckets.
 
 &nbsp; &nbsp; &nbsp; &nbsp; Before permission
 
@@ -42,6 +42,12 @@ The bucket without public access `**myelearning.nk**`
 
 &nbsp; &nbsp; &nbsp; &nbsp; <img width="675" alt="image" src="https://user-images.githubusercontent.com/74515760/209601671-40e22494-3789-4a92-9304-9c12c42545ff.png">
 
+This is for second bucket permission to static host website. 
 
+&nbsp; &nbsp; &nbsp; &nbsp; <img width="635" alt="image" src="https://user-images.githubusercontent.com/74515760/209603369-f07a3c11-b7ed-4f48-9c88-32ffdf54ee27.png">
+
+Now, all set from S3 side. Using the link by S3 the output is below.
+
+&nbsp; &nbsp; &nbsp; &nbsp; <img width="1248" alt="image" src="https://user-images.githubusercontent.com/74515760/209604293-f5977251-1bae-4c2d-b5aa-9c6b7dbb6977.png">
 
 
