@@ -44,22 +44,18 @@ Configured in route table to access Internet for private networks
 
 ![Screenshot_20221228_111414](https://user-images.githubusercontent.com/74515760/209763838-3c23ce8b-30e1-40d4-8c85-ade8d15ed04e.png)
 
-Instance status
 
-![Screenshot_20221228_115731](https://user-images.githubusercontent.com/74515760/209768289-1db5bdd8-b65c-4183-9f6c-bac76c2eaed2.png)
-
-Front-end server & Installed Tomcat apache server
+## Front-end server & Installed Tomcat apache server
 
 ![Screenshot_20221228_120933](https://user-images.githubusercontent.com/74515760/209769537-af3fbd0f-7836-447d-9348-04d308f619df.png)
 
-Application server & installed Java and nginx server
+## Application server & installed Java and nginx server
 
-![Screenshot_20221228_151625](https://user-image![Screenshot_20221228_153603](https://user-images.githubusercontent.com/74515760/209795294-7ebf10fd-06d3-483a-b247-a7db5c754fd6.png)
-s.githubusercontent.com/74515760/209792547-7a3b5272-e1e1-40cd-bd7e-f7115b203e8e.png)
+![Screenshot_20221228_151625](https://user-images.githubusercontent.com/74515760/209805658-b37c8c0d-fbd8-4218-ba18-318da5279d1c.png)
 
 ![Screenshot_20221228_153230](https://user-images.githubusercontent.com/74515760/209794868-ae7384f3-277e-455a-a934-62f8c9bedcd8.png)
 
-DB server & Installed MariaDB
+## DB server & Installed MariaDB
 
 ![Screenshot_20221228_153603](https://user-images.githubusercontent.com/74515760/209795399-722c4aa8-5c52-4e97-9fcd-9f67259a82fa.png)
 
