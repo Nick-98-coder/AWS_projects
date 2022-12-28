@@ -44,8 +44,6 @@ Configured in route table to access Internet for private networks
 
 ![Screenshot_20221228_111414](https://user-images.githubusercontent.com/74515760/209763838-3c23ce8b-30e1-40d4-8c85-ade8d15ed04e.png)
 
-![Screenshot_20221228_113812](https://user-images.githubusercontent.com/74515760/209766222-72e8859b-502d-4b13-85bf-e6856b5cf225.png)
-
 Instance status
 
 ![Screenshot_20221228_115731](https://user-images.githubusercontent.com/74515760/209768289-1db5bdd8-b65c-4183-9f6c-bac76c2eaed2.png)
