@@ -1,5 +1,7 @@
 # AWS 3-Tier Architecture
 
+![Screenshot_20221228_165551](https://user-images.githubusercontent.com/74515760/209805148-d6ff69c1-4053-4cff-b87a-f89e1d6c0bb1.png)
+
 Creating VPC:
 
 ![Screenshot_20221228_104846](https://user-images.githubusercontent.com/74515760/209761543-c03cb5d3-a93e-4075-b668-7c243fa3c247.png)
