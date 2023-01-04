@@ -6,7 +6,7 @@ The below plan is my architechture.
 &nbsp; &nbsp; &nbsp; &nbsp; <img width="630" alt="image" src="https://user-images.githubusercontent.com/74515760/209599126-e8b45f82-81bf-48e8-bc99-bdde923b9415.png">
 
 
-* Step-1: Creating two new S3 bucket with a Unique names as `**www.myelearning.nk**` &  `**myelearning.nk**` in the same availability zone.
+* Step-1: Creating two new S3 bucket with a Unique names as `www.myelearning.nk` &  `myelearning.nk` in the same availability zone.
 
 	*(reason for creating two buckets : to redirect the content with both the names)*
 	
@@ -16,19 +16,19 @@ The below plan is my architechture.
 
 * Step-2: Providing public access to the buckets, so that the content can be access to public
 
-The bucket with public access `**www.myelearning.nk**` 
+The bucket with public access `www.myelearning.nk` 
 
 &nbsp; &nbsp; &nbsp; &nbsp; <img width="461" alt="Screenshot_20221227_063739" src="https://user-images.githubusercontent.com/74515760/209597040-296ff68d-4543-4fc5-bccd-a94a9b5448f6.png">
 
-The bucket without public access `**myelearning.nk**`
+The bucket without public access `myelearning.nk`
 
 &nbsp; &nbsp; &nbsp; &nbsp;  <img width="602" alt="image" src="https://user-images.githubusercontent.com/74515760/209598090-9fb07f52-2b86-4a93-ba08-910c5e6d1416.png">
 
-* Step-3: Uploading all the files to the bucket `**www.myelearning.nk**`
+* Step-3: Uploading all the files to the bucket `www.myelearning.nk`
 
 &nbsp; &nbsp; &nbsp; &nbsp; <img width="629" alt="image" src="https://user-images.githubusercontent.com/74515760/209600550-895ddda6-7f08-4118-9a01-f5e82fcdea9c.png">
 
-* Step-4: Adding bucket policy for `**www.myelearning.nk**` . 
+* Step-4: Adding bucket policy for `www.myelearning.nk` . 
 
 &nbsp; &nbsp; &nbsp; &nbsp; <img width="386" alt="image" src="https://user-images.githubusercontent.com/74515760/209601182-e146456e-a5c4-421f-af38-3ca08dc69941.png">
 
