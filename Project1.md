@@ -1,4 +1,4 @@
-### AWS project1 - WIP
+### AWS project1
 # Hosting static website.
 ***
 The below plan is my architechture.
@@ -107,4 +107,4 @@ After this we can configure the CloudFont Distribution and can get a access to `
 
 I hope the conculsion result will be same as the Route53 --> S3 bucket link result.
 
-
+#My static website is launched successfully!
