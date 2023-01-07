@@ -79,6 +79,16 @@ The result is below with `www.electronium.ga` domain name service.
 
 <img width="1280" alt="Screenshot_20230107_112945" src="https://user-images.githubusercontent.com/74515760/211134003-1b9c18c0-98d9-468d-95d4-481d93c33928.png">
 
+Now, setting up with CloudFont.
+Created required cloudfront by linking with S3 link.
+
+<img width="1227" alt="image" src="https://user-images.githubusercontent.com/74515760/211134926-860c41f6-b6e4-402c-9215-a2a6ebf7fe30.png">
+
+PFB CloudFont result with it's genrated link.
+
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/74515760/211134957-5f1bce52-4067-4571-9499-417229ba18af.png">
+
+
 
 
 
