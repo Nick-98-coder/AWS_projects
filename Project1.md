@@ -88,6 +88,21 @@ PFB CloudFont result with it's genrated link.
 
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/74515760/211134957-5f1bce52-4067-4571-9499-417229ba18af.png">
 
+Now we have to modify the pointing path of the website.
+So, The below path we have to achieve  
+Route53 --> CloudFont --> S3 Buckets
+
+To do those, modifying the Route53's records 
+
+Before
+
+<img width="1079" alt="image" src="https://user-images.githubusercontent.com/74515760/211135161-28a6177d-a9c8-4980-812b-0430ff883a8f.png">
+
+After
+
+
+
+
 
 
 
