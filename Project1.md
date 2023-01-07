@@ -82,11 +82,11 @@ The result is below with `www.electronium.ga` domain name service.
 Now, setting up with CloudFont.
 Created required cloudfront by linking with S3 link.
 
-<img width="1227" alt="image" src="https://user-images.githubusercontent.com/74515760/211134926-860c41f6-b6e4-402c-9215-a2a6ebf7fe30.png">
+<img width="1233" alt="image" src="https://user-images.githubusercontent.com/74515760/211135512-738f8949-89eb-4366-be4b-a4985bef06d2.png">
 
 PFB CloudFont result with it's genrated link.
 
-<img width="1280" alt="image" src="https://user-images.githubusercontent.com/74515760/211134957-5f1bce52-4067-4571-9499-417229ba18af.png">
+<img width="1273" alt="image" src="https://user-images.githubusercontent.com/74515760/211135522-c4ac2032-c65a-43b1-a617-a5f46f0becf4.png">
 
 Now we have to modify the pointing path of the website.
 So, The below path we have to achieve  
@@ -100,10 +100,11 @@ Before
 
 After
 
+<img width="1086" alt="image" src="https://user-images.githubusercontent.com/74515760/211140997-c5e380a4-9509-4a7f-9569-1157c82a804f.png">
 
+Before this we have to create SSL certificate and attach to the Route53 records.
+After this we can configure the CloudFont Distribution and can get a access to `www.electronium.ga` name. (Since freenom is free domain service, I m not able to get Amazon cerification to host.)
 
-
-
-
+I hope the conculsion result will be same as the Route53 --> S3 bucket link result.
 
 
