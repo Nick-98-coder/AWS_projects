@@ -50,4 +50,22 @@ Now, all set from S3 side. PFB output from the Static website link was genarated
 
 &nbsp; &nbsp; &nbsp; &nbsp; <img width="1248" alt="image" src="https://user-images.githubusercontent.com/74515760/209604293-f5977251-1bae-4c2d-b5aa-9c6b7dbb6977.png">
 
+I got a free domain name from freenom.com
+
+<img width="876" alt="Screenshot_20230107_110037" src="https://user-images.githubusercontent.com/74515760/211133785-1f29f05e-d546-4693-9b41-e3a8f8067400.png">
+
+Created Host zone in Route53 service in the name of `electronium.ga`. (I have created new bucket with name of `www.electronium.ga`and it is redirected to the bucket name `www.myelearning.nk`)
+
+<img width="1034" alt="Screenshot_20230107_110230" src="https://user-images.githubusercontent.com/74515760/211133899-067d3acb-ed46-4a9d-8ea8-536b1e46bde7.png">
+
+Created a new record with S3 endpoint as a alias name with `www.electronium.ga` 
+
+<img width="1062" alt="Screenshot_20230107_110442" src="https://user-images.githubusercontent.com/74515760/211133964-44a2d1dd-e211-4967-8ea6-10dc6281bf7e.png">
+
+The result is below with `www.electronium.ga` domain name service.
+
+<img width="1280" alt="Screenshot_20230107_112945" src="https://user-images.githubusercontent.com/74515760/211134003-1b9c18c0-98d9-468d-95d4-481d93c33928.png">
+
+
+
 
